@@ -1,0 +1,34 @@
+body {
+  background-color: turquoise;
+  font-family: 'Trebuchet MS';
+}
+
+a {
+  color: #fff;
+  background-color: olivedrab;
+}
+
+strong {
+}
+
+em {
+}
+
+header {
+  background-color: hotpink;
+}
+
+main {
+  background-color: purple;
+}
+
+section {
+  background-color: blue;
+}
+
+article {
+  background-color: goldenrod;
+}
+article header {
+  background-color: papayawhip;
+}
